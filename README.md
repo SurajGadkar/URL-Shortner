@@ -1,3 +1,4 @@
-Initial commit
+Initial commit\n
 Url Shortner
+
 # URL-Shortner
